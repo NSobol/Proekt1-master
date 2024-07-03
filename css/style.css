@@ -515,7 +515,7 @@ nav {
   -webkit-transform: scale(0.7);
 }
 .nav-1 .linktext {
-  font-size: 16px;
+  font-size: 1em;
   width: 100px;
   text-align: center;
   position: relative;
@@ -921,11 +921,13 @@ nav {
     margin-left: 0;
   }
   .nav-1 {
+    font-size: 13px;
     width: 350px;
     justify-content: center;
     display: flex;
   }
   .nav-2 {
+     font-size: 13px;
     width: 350px;
     justify-content: center;
     display: flex;
