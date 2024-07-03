@@ -481,6 +481,8 @@ button.popup-btn {
 .nav-1 nav {
   background: #d3d3d3;
   border-radius: 30px;
+  display: flex;
+  flex-wrap: nowrap;
 }
 nav {
   position: relative;
@@ -752,8 +754,12 @@ nav {
   ul {
     margin-left: 0;
   }
+
+
 }
 @media (min-width: 901px) and (max-width: 949px) {
+
+
   .section-name {
     margin-top: 100;
   }
