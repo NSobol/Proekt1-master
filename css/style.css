@@ -484,6 +484,7 @@ button.popup-btn {
   display: flex;
   flex-wrap: nowrap;
 }
+
 nav {
   position: relative;
   max-width: 400px;
@@ -916,7 +917,7 @@ nav {
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
-    font-size: 20px;
+    font-size: 18px;
 }
   .info{
     display: flex;
